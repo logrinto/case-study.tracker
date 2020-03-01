@@ -18,7 +18,6 @@ Case Study for a tracker tag
 
 
 ### Vergangene Case Studies
-* [HS2017 · Aufgabe Case Study · Interface](https://signalwerk.github.io/IAD.LAB.DOC/exercise-case-study/)
-* [IAD2017 · SBB · HS2017](https://signalwerk.github.io/IAD.LAB.DOC/exercise-case-study/) [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2017/KW45-case-study/)
+* [IAD2017 · SBB · HS2017](https://signalwerk.github.io/IAD.LAB.DOC/exercise-case-study/) → [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2017/KW45-case-study/)
 * [IAD2017 · nextpad · FS2018](https://github.com/logrinto/case-study.nextpad)
 * [IAD2017 & IAD2019 · Self-Service · HS2019](https://github.com/logrinto/case-study.self-service)
