@@ -1,12 +1,9 @@
 # Tracker
 
-### Kommunikation:
+### Kommunikation
 * [Zoom Meeting](https://zoom.us/j/214657003?pwd=TnFXQkhtNFdxME01K1hxNW9XLzVEZz09)
 * Slack
 
-
-
-# Tracker
 
 ## Ausgangslage
 Es gibt auf dem Markt diverse so genannte «Tracking Tags». Dies sind kleine Geräte, welche den Standort des Geräts dem Besitzer mitteilen können. Der Benutzer und der Tag müssen dabei nicht am selben Ort sein. Somit eignet sich ein solches Gerät um zum Beispiel zu verfolgen wo ein Gepäckstück/Auto/… gerade ist.  
