@@ -1,5 +1,4 @@
 # Tracker
-Case Study for a tracker tag
 
 ### Kommunikation:
 * [Zoom Meeting](https://zoom.us/j/214657003?pwd=TnFXQkhtNFdxME01K1hxNW9XLzVEZz09)
