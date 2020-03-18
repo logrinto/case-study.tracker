@@ -62,7 +62,7 @@ Pausen werden innerhalb der Gruppen selber koordiniert.
 ### Nachmittag
 * **12:45 – 15:00** Jede Gruppe arbeitet an einem Wireframe der App
   * **12:45** Jede Person macht ein Foto aus seiner User-Perspektive mit Blick auf den Hauptbildschirm seines Arbeitsplatz. Zusätzlich wird jede Person einzeln mittels Screenshot (möglichst gross) von einem Gruppenmitglied per Zoom dokumentiert. (Eigensicht/Aussensicht) Die Fotos werden in Slack geposted uns später im Blog-Post verwendet. Wer privacy bedenken hat, soll entsprechend kurz einen neutralen Hintergrund ins Bild holen.
-  * **13:15*** Jede Gruppe posted in Slack die drei wichtigsten «acceptance criteria», was die Applikation können muss. Dabei ist zu Beachten, dass zwei User Journeys um 15 Uhr abgegeben werden müssen, die diese drei Kriterien abdecken. Zusätzlich werden einige Bulletpoints für die Marketing-Abteilung abgegeben, so dass diese eine Vorstellung bekommt, was die App künftig leisten wird.
+  * **13:15** Jede Gruppe posted in Slack die drei wichtigsten «acceptance criteria», was die Applikation können muss. Dabei ist zu Beachten, dass zwei User Journeys um 15 Uhr abgegeben werden müssen, die diese drei Kriterien abdecken. Zusätzlich werden einige Bulletpoints für die Marketing-Abteilung abgegeben, so dass diese eine Vorstellung bekommt, was die App künftig leisten wird.
   * **12:45 – 13:40** Michael & Stefan stehen bei Fragen zur Verfügung
   * **13:40 – 13:50** Gruppe 1 – Michael & Stefan geben Feedback
   * **13:50 – 14:00** Gruppe 2 – Michael & Stefan geben Feedback
@@ -75,7 +75,7 @@ Pausen werden innerhalb der Gruppen selber koordiniert.
 
 ## Termine & Abgabe
 Am 20. März 2020 um 11:00 Uhr muss präsentiert werden, welche Funktionen man von der Fertigen App erwarten kann. Also welche Funktionen sollen ermöglicht werden. Unter den gegebenen technischen Voraussetzungen könnten diverse Funktionen realisiert werden. Diese Präsentation zeigt wofür man sich entschieden hat und weshalb. Zudem soll eine User Journey Map gezeigt werden. Einstieg soll bei der Inbetriebnahme des Produkts sein (also nach dem Kaufprozess).  
-Um 15 Uhr muss eine Präsentation gezeigt werden (15 min). Die Funktion des Interfaces ist dabei für zwei User Journeys ersichtlich: «Onboarding» (Gerät in Betrieb nehmen) ein Anwendungsfall (ergibt sich aus der Funktion am Morgen).  
+Um 15 Uhr muss eine Präsentation gezeigt werden (15 min). Die Funktion des Interfaces ist dabei für zwei User Journeys ersichtlich: «Onboarding» (Gerät in Betrieb nehmen) ein Anwendungsfall (ergibt sich aus der definition der Funktion am Morgen).  
 Die Aufgabe wird in fünf Gruppen ausgeführt.  
 
 ## Präsentation (11 Uhr)
