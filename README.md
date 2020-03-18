@@ -61,7 +61,7 @@ Pausen werden innerhalb der Gruppen selber koordiniert.
 
 ### Nachmittag
 * **12:45 – 15:00** Jede Gruppe arbeitet an einem Wireframe der App
-  * **12:45** Jede Person macht ein Foto aus seiner User-Perspektive mit Blick auf den Hauptbildschirm seines Arbeitsplatz. Zusätzlich wird jede Person einzeln mittels Screenshot (möglichst gross) von Zoom dokumentiert. (Eigensicht/Aussensicht) Die Fotos werden in Slack geposted uns später im Blog-Post verwendet. Wer privacy bedenken hat, soll entsprechend kurz einen neutralen Hintergrund ins Bild holen.
+  * **12:45** Jede Person macht ein Foto aus seiner User-Perspektive mit Blick auf den Hauptbildschirm seines Arbeitsplatz. Zusätzlich wird jede Person einzeln mittels Screenshot (möglichst gross) von einem Gruppenmitglied per Zoom dokumentiert. (Eigensicht/Aussensicht) Die Fotos werden in Slack geposted uns später im Blog-Post verwendet. Wer privacy bedenken hat, soll entsprechend kurz einen neutralen Hintergrund ins Bild holen.
   * **13:15*** Jede Gruppe posted in Slack die drei wichtigsten «acceptance criteria», was die Applikation können muss. Dabei ist zu Beachten, dass zwei User Journeys um 15 Uhr abgegeben werden müssen, die diese drei Kriterien abdecken. Zusätzlich werden einige Bulletpoints für die Marketing-Abteilung abgegeben, so dass diese eine Vorstellung bekommt, was die App künftig leisten wird.
   * **12:45 – 13:40** Michael & Stefan stehen bei Fragen zur Verfügung
   * **13:40 – 13:50** Gruppe 1 – Michael & Stefan geben Feedback
