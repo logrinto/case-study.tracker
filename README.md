@@ -13,7 +13,7 @@ Es gibt diverse Anbieter von solchen Geräten und es gibt seit geraumer Zeit das
 * [Beispiel Invoxia Roadie](https://www.invoxia.com/intl/gps-tracker)
 
 ## Aufgabe
-Es soll eine Mobile-Applikation (App) entwickelt werden, welche dem User hilft einen Tracker in Betrieb zu nehmen (Registrierung), diesen zu Konfigurieren und zu betreiben. Es handelt sich um eine native App und keine Website.
+Es soll eine Mobile-Applikation (App) entwickelt werden, welche dem User hilft einen Tracker in Betrieb zu nehmen (Registrierung), diesen zu konfigurieren und zu betreiben. Es handelt sich um eine native App und keine Website.
 
 ## Funktionsmodel für Aufgabe
 Das Gerät sendet den Standort nicht an das Gerät des Kunden, sondern an einen Server des Anbieters der immer verfügbar ist. Von dort können Daten von der App abgefragt werden.
@@ -32,9 +32,9 @@ Das Gerät sendet den Standort nicht an das Gerät des Kunden, sondern an einen 
 ## Technische Fähigkeit
 Das Tracking Gerät und die Infrastruktur dazu werden folgende technische Eigenschaften haben;
 
-* Gerät hat eine Batterielaufzeit von 3 Monate
-* Gerät kann Standort via Mobilenetz (hat eigene bereits eingesetzte SIM-Karte) an Server senden
-* Gerät kann vom Server die Nachricht erhalten einen Ton zu spielen (kleiner Lautsprecher)
+* Gerät hat eine Batterielaufzeit von 3 Monaten
+* Gerät kann Standort via Mobilnetz (hat eigene bereits eingesetzte SIM-Karte) an Server senden
+* Gerät kann vom Server die Nachricht erhalten, einen Ton zu spielen (kleiner Lautsprecher)
 * App kann Push-Nachrichten vom Server empfangen
 * App kann Standort-Verlauf vom Server abfragen
 * Server kann Standort-Daten vom Tracker beliebig lange behalten (nur kleine Daten)
@@ -61,8 +61,8 @@ Pausen werden innerhalb der Gruppen selber koordiniert.
 
 ### Nachmittag
 * **12:45 – 15:00** Jede Gruppe arbeitet an einem Wireframe der App
-  * **12:45** Jede Person macht ein Foto aus seiner User-Perspektive mit Blick auf den Hauptbildschirm seines Arbeitsplatz. Zusätzlich wird jede Person einzeln mittels Screenshot (möglichst gross) von einem Gruppenmitglied per Zoom dokumentiert. (Eigensicht/Aussensicht) Die Fotos werden in Slack geposted uns später im Blog-Post verwendet. Wer privacy bedenken hat, soll entsprechend kurz einen neutralen Hintergrund ins Bild holen.
-  * **13:15** Jede Gruppe posted in Slack die drei wichtigsten «acceptance criteria», was die Applikation können muss. Dabei ist zu Beachten, dass zwei User Journeys um 15 Uhr abgegeben werden müssen, die diese drei Kriterien abdecken. Zusätzlich werden einige Bulletpoints für die Marketing-Abteilung abgegeben, so dass diese eine Vorstellung bekommt, was die App künftig leisten wird.
+  * **12:45** Jede Person macht ein Foto aus seiner User-Perspektive mit Blick auf den Hauptbildschirm seines Arbeitsplatz. Zusätzlich wird jede Person einzeln mittels Screenshot (möglichst gross) von einem Gruppenmitglied per Zoom dokumentiert. (Eigensicht/Aussensicht) Die Fotos werden in Slack geposted uns später im Blog-Post verwendet. Wer Privacy Bedenken hat, soll entsprechend kurz einen neutralen Hintergrund ins Bild holen.
+  * **13:15** Jede Gruppe postet in Slack die drei wichtigsten «acceptance criteria», was die Applikation können muss. Dabei ist zu beachten, dass zwei User Journeys um 15 Uhr abgegeben werden müssen, die diese drei Kriterien abdecken. Zusätzlich werden einige Bulletpoints für die Marketing-Abteilung abgegeben, so dass diese eine Vorstellung bekommt, was die App künftig leisten wird.
   * **12:45 – 13:40** Michael & Stefan stehen bei Fragen zur Verfügung
   * **13:40 – 13:50** Gruppe 1 – Michael & Stefan geben Feedback
   * **13:50 – 14:00** Gruppe 2 – Michael & Stefan geben Feedback
@@ -74,11 +74,11 @@ Pausen werden innerhalb der Gruppen selber koordiniert.
 
 
 ## Termine & Abgabe
-Am 20. März 2020 um 11:00 Uhr muss präsentiert werden, welche Funktionen man von der Fertigen App erwarten kann. Also welche Funktionen sollen ermöglicht werden. Unter den gegebenen technischen Voraussetzungen könnten diverse Funktionen realisiert werden. Diese Präsentation zeigt wofür man sich entschieden hat und weshalb. Zudem soll eine User Journey Map gezeigt werden. Einstieg soll bei der Inbetriebnahme des Produkts sein (also nach dem Kaufprozess).  
-Um 15 Uhr muss eine Präsentation gezeigt werden (15 min). Die Funktion des Interfaces ist dabei für zwei User Journeys ersichtlich: «Onboarding» (Gerät in Betrieb nehmen) ein Anwendungsfall (ergibt sich aus der definition der Funktion am Morgen).  
+Am 20. März 2020 um 11:00 Uhr muss präsentiert werden, welche Funktionen man von der fertigen App erwarten kann. Also welche Funktionen sollen ermöglicht werden. Unter den gegebenen technischen Voraussetzungen könnten diverse Funktionen realisiert werden. Diese Präsentation zeigt wofür man sich entschieden hat und weshalb. Zudem soll eine User Journey Map gezeigt werden. Einstieg soll die Inbetriebnahme des Produkts sein (also nach dem Kaufprozess).  
+Um 15 Uhr muss eine Präsentation gezeigt werden (8 min). Die Funktion des Interfaces ist dabei für zwei User Journeys ersichtlich: «Onboarding» (Gerät in Betrieb nehmen) und ein Anwendungsfall (ergibt sich aus der Definition der Funktion vom Vormittag).  
 Die Aufgabe wird in fünf Gruppen ausgeführt.  
 
-## Präsentation (11 Uhr)
+## Zwischenpräsentation (11 Uhr)
 Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt. 
 
 ## Abgabe & Präsentation (15 Uhr)
