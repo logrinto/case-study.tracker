@@ -18,11 +18,11 @@ Es soll eine Mobile-Applikation (App) entwickelt werden, welche dem User hilft e
 Die Aufgabe wird in fünf Gruppen ausgeführt.
 
 ### Zwischenpräsentation
-Am 20. März 2020 um 11 Uhr muss ca. 5min. präsentiert werden, welche Funktionen man von der fertigen App erwarten kann. Also welche Funktionen sollen ermöglicht werden. Zu den Funktionen müssen mögliche Use Cases erarbeitet werden. Unter den gegebenen technischen Voraussetzungen könnten diverse Funktionen realisiert werden. Diese Zwischenpräsentation zeigt die ausgewählten Funktionen und deren Use Cases. Einstieg soll die Inbetriebnahme des Produkts sein (also nach dem Kaufprozess).
+Am 20. März 2020 um 11 Uhr muss etwa 5 min präsentiert werden, welche Funktionen man von der fertigen App erwarten kann. Also welche Funktionen sollen ermöglicht werden. Zu den Funktionen müssen mögliche Use Cases erarbeitet werden. Unter den gegebenen technischen Voraussetzungen könnten diverse Funktionen realisiert werden. Diese Zwischenpräsentation zeigt die ausgewählten Funktionen und deren Use Cases. Einstieg soll die Inbetriebnahme des Produkts sein (also nach dem Kaufprozess).
 Die Zwischenpräsentation dient dem Lernprozess und soll einen Austausch innerhalb der Klasse fördern. Die Qualität des Entwurfs wird noch nicht beurteilt. 
 
 ### Präsentation
-Um 15 Uhr müssen ca. 8min. die Interfaces zweier User Journeys präsentiert werden: «Onboarding» (Gerät in Betrieb nehmen) und eine Funktion anhand eines Anwendungsfalles (ergibt sich aus der Definition der Funktion vom Vormittag).
+Um 15 Uhr müssen etwa 8 min die Interfaces zweier User Journeys präsentiert werden: «Onboarding» (Gerät in Betrieb nehmen) und eine Funktion anhand eines Anwendungsfalles (ergibt sich aus der Definition der Funktion vom Vormittag).
 Zu visualisieren sind die relevanten Interface-Elemente. Die Präsentation muss auf [Github](https://github.com/logrinto/case-study.tracker/issues) hochgeladen werden.
   
 
@@ -83,7 +83,7 @@ Pausen werden innerhalb der Gruppen selber koordiniert.
 
 
 ## Digital Socializing
-Die aktuelle «Corona»-Krise zwingt uns zu neuen Unterrichtsformen wie Home-Schooling. Um das Gefühl einer Klassengemeinschaft zu stärken, möchten wir den heutigen Tag fotografisch dokumentieren. Jede Person macht ein Foto seines Arbeitsplatzes. Zusätzlich wird jede Person einzeln mittels Screenshot via Zoom (möglichst gross) von einem Gruppenmitglied dokumentiert. Die Fotos werden in Slack geposted uns später im Blog-Post verwendet. Wer Privacy-Bedenken hat, wird nicht dazu gezwungen. Als Beispiel machen Michael & Stefan zwischen 8.15 Uhr und 8.45 Uhr den Start.
+Die aktuellen «COVID-19»-Umstände zwingen uns zu neuen Unterrichtsformen wie distance learning. Um das Gefühl einer Klassengemeinschaft zu stärken, möchten wir den heutigen Tag fotografisch dokumentieren. Jede Person macht ein Foto seines Arbeitsplatzes. Zusätzlich wird jede Person einzeln mittels Screenshot via Zoom (möglichst gross) von einem Gruppenmitglied dokumentiert. Die Fotos werden in Slack geposted und später im Blog-Post verwendet. Wer Privacy-Bedenken hat, wird nicht dazu gezwungen. Als Beispiel machen Michael & Stefan zwischen 8.15 Uhr und 8.45 Uhr den Start.
 
 ## Bewertung
 
