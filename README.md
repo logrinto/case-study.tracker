@@ -57,7 +57,7 @@ Pausen werden innerhalb der Gruppen selber koordiniert.
   * **10:10 – 10:20** Gruppe 4 – Michael & Stefan geben Feedback
   * **10:20 – 10:30** Gruppe 5 – Michael & Stefan geben Feedback
   * **10:30 – 11:00** Michael & Stefan stehen bei Fragen zur Verfügung
-* **11:00 – 11:45** Jede Gruppe präsentiert etwa 5 Minuten Funktion und User-Journey
+* **11:00 – 11:55** Jede Gruppe präsentiert etwa 5 Minuten Funktion und User-Journey
 
 ### Nachmittag
 * **12:45 – 15:00** Jede Gruppe arbeitet an einem Wireframe der App
