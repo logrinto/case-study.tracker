@@ -2,7 +2,7 @@
 
 ### Kommunikation
 * [Zoom Meeting](https://zoom.us/j/214657003?pwd=TnFXQkhtNFdxME01K1hxNW9XLzVEZz09)
-* Slack
+* Slack → [#case-study](https://logrinto.slack.com/archives/CNCQZFJF9)
 
 
 ## Ausgangslage
