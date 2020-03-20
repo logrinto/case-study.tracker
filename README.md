@@ -5,6 +5,7 @@
 * Slack → [Channel #case-study](slack://channel?team=T6RSKS0PK&id=CNCQZFJF9)
 
 
+
 ## Ausgangslage
 Es gibt auf dem Markt diverse so genannte «Tracking Tags». Dies sind kleine Geräte, welche den Standort des Geräts dem Besitzer mitteilen können. Der Benutzer und der Tag müssen dabei nicht am selben Ort sein. Somit eignet sich ein solches Gerät um zum Beispiel zu verfolgen wo ein Gepäckstück/Auto/… gerade ist.  
 Es gibt diverse Anbieter von solchen Geräten und es gibt seit geraumer Zeit das Gerücht, dass Apple – als grosser Player – in diesen Markt einsteigen möchte.
